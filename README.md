@@ -1,6 +1,6 @@
 # Dailly
 
-Create, manage and track your daily goals.
+Mange tasks with privacy
 
 ## About
 
